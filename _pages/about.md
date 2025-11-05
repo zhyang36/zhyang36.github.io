@@ -63,5 +63,5 @@ redirect_from:
 - *2021.06 - 2025.06*, School of Computer Science, Central South University, Changsha, China.
 
 
-# 💻 Internships
-- *2023.08 - 2024.08*, Completed the first research internship on diffusion models and model watermarking under the supervision of Associate Professor Xiyao Liu.
+<!-- # 💻 Internships
+- *2023.08 - 2024.08*, Completed the first research internship on diffusion models and model watermarking under the supervision of Associate Professor Xiyao Liu. -->
