@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Zenghui Yang"
-description              : "homepage of Zenghui Yang"
+description              : 
 repository               : "resecube/resecube.github.io"
 google_scholar_stats_use_cdn : false
 domain: resecube.github.io
@@ -23,7 +23,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : https://scholar.google.com/citations?user=M7oPARsAAAAJ&hl=zh-CN&oi=sra
   email            : "zenghuiyang36@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
